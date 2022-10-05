@@ -1,6 +1,6 @@
 # Temporarily store modified, tracked files in order to change branches
 ### Use case of below commands during
-- > After making some changes in files, and want to switch to different feature branch, with below commands save modified files and get back those modified files based on your needs.
+> After making some changes in files, and want to switch to different feature branch, with below commands save modified files and get back those modified files based on your needs.
 
 | Command | Description |
 | --- | --- |
