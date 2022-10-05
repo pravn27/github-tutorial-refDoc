@@ -17,5 +17,7 @@
 - ### Basics Commands
 | Command | Description |
 | --- | --- |
-| git clone [url] | Clone the entire repository from a remote / hosted location via URL |
+| git clone [remote_url] | Clone the entire repository from a remote / hosted location via URL |
 | git branch | List your branches |
+| git checkout [branch_name] | Switch to branch specified |
+| git branch [branch_name] | Create new branch specified |
